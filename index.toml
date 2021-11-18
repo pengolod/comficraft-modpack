@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "b021631b3c9eb2df67a922cf29afbfc01616cd86b1eb2a1f489930d8a478c6b1"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "3f7b1c6adb6a9549d23493bcde6bed81c40248d7ad0ae5763317074de740e7f0"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+metafile = true
+
+[[files]]
+file = "mods/quickcarpet.toml"
+hash = "8a113e7532501ddd54b27b27b94862a4c09ff63cfebd4d08a3910534d68cc962"
+metafile = true
+
+[[files]]
+file = "mods/retino.toml"
+hash = "b91b8f25f09a5100ea870f97df33a8c40222695df5d96710acfd72ef03703830"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "6734a05672366d09b1ae0df18c538829f038f784e6becfd5a5bb62b4a5f4046f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "aadf8856e950c51967b1f213be845be01f242416dc88fb426dfd78901e5afda9"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true

@@ -1,0 +1,14 @@
+name = "retiNO"
+filename = "retino-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3144/613/retino-1.0.1.jar"
+hash-format = "murmur2"
+hash = "1565932798"
+
+[update]
+[update.curseforge]
+file-id = 3144613
+project-id = 371235
+release-channel = "beta"
