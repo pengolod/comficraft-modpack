@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b021631b3c9eb2df67a922cf29afbfc01616cd86b1eb2a1f489930d8a478c6b1"
+hash = "421e382c7e7998ef68bfdf25b6c6a31318cf34745c25852f4a26843f67ed9c4f"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "6734a05672366d09b1ae0df18c538829f038f784e6becfd5a5bb62b4a5f4046f"
+hash = "d636e3d775b10855444f928519ab3e2c1566b4c2678bf3122e1014c95c5811d4"
 metafile = true
 
 [[files]]

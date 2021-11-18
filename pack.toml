@@ -1,16 +1,16 @@
-name = "Pengolod's Base Modpack"
+name = "Pengolod's comficraft Modpack"
 author = "Pengolod"
-version = "1.0.0"
+version = "2021.11.17+1.18"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29ae6f3822e96f2148068bc754f74e0d4b83108697fd69b746e61b375af679e6"
+hash = "2b48d25408996a406dc55c129e3c75896184579d8aeffe65cb4537b4d38702e1"
 
 [versions]
-fabric = "0.11.7"
-minecraft = "1.17.1"
+fabric = "0.12.5"
+minecraft = "1.18-pre4"
 
 [options]
-acceptable-game-versions = ["1.17"]
+acceptable-game-versions = ["1.18-Snapshot", "21w37a", "21w38a", "21w39a", "21w40a", "21w41a", "21w42a", "21w43a", "21w44a", "1.18-pre1", "1.18-pre2", "1.18-pre3"]
